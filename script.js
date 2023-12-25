@@ -5,7 +5,22 @@ const quizData = [
       answer: 'nai',
     },
     {
-      question: 'What do i hate about this club',
+      question: 'Who was the guy that got blocked in the first semester by professor',
+      options: ['the GREAT Luqman', 'Rizwan', 'Issa bhi hota?', 'koi nai'],
+      answer: 'the GREAT Luqman',legendary moment that,
+    },
+     {
+      question: 'What is the most fun thing about NQC',
+      options: ['IDHER FUN BHI HOTA?', 'kuch nahi', 'the absolute joke of a gs and presi', 'how we have a 50 members to do nothing'],
+      answer: 'IDHER FUN BHI HOTA?',
+    },
+     {
+      question: 'Will this club survive the next semester',
+      options: ['ofc', 'inshallah.', 'nai', 'mushkil'],
+      answer: 'nai',
+    },
+    {
+      question: 'What do I hate about this club',
       options: ['everything', 'the sweetest person there', 'the president', 'myself for joining'],
       answer: 'myself for joining',
     },
