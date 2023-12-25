@@ -2,7 +2,7 @@
 
 body {
   font-family: 'Poppins', sans-serif;
-  background-image: url(pexels-suzy-hazelwood-1629236.jpg);
+  background-image: url(Untitled\ design.jpeg);
   background-position: center;
   background-size: cover;
   min-height: 80vh;
@@ -12,34 +12,34 @@ body {
 
 .container {
   justify-content: center;
-  width: 300px;
+  width: 310px;
   padding: 20px;
   margin-top: 150px;
   background-color: rgb(255, 255, 255);
   border-radius: 20px;
   border-width: 4px;
-  border-color: fuchsia;
+  border-color: rgb(7, 134, 104);
   border-style: solid;
 }
 
 h1 {
-  color: fuchsia;
+  color: rgb(7, 134, 104);
   text-align: center;
 }
 
 .question {
-  color: fuchsia;
+  color: rgb(7, 134, 104);
   font-weight: bold;
   margin-bottom: 10px;
 }
 
 .options {
-  color: fuchsia;
+  color: rgb(7, 134, 104);
   margin-bottom: 20px;
 }
 
 .option {
-  color: fuchsia;
+  color: rgb(7, 134, 104);
   display: block;
   margin-bottom: 10px;
 }
@@ -47,7 +47,7 @@ h1 {
 .button {
   display: inline-block;
   padding: 10px 20px;
-  background-color: fuchsia;
+  background-color: rgb(7, 134, 104);
   color: #fff;
   border: none;
   cursor: pointer;
@@ -58,7 +58,8 @@ h1 {
 }
 
 .button:hover {
-  background-color: #8c075d;
+  background-color: white;
+  color: rgb(7, 134, 104);
 }
 
 .result {
