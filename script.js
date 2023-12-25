@@ -7,7 +7,7 @@ const quizData = [
     {
       question: 'Who was the guy that got blocked in the first semester by professor',
       options: ['the GREAT Luqman', 'Rizwan', 'Issa bhi hota?', 'koi nai'],
-      answer: 'the GREAT Luqman',legendary moment that,
+      answer: 'the GREAT Luqman',
     },
      {
       question: 'What is the most fun thing about NQC',
