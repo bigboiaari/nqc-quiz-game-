@@ -11,13 +11,8 @@ const quizData = [
     },
      {
       question: 'What is the most fun thing about NQC',
-      options: ['IDHER FUN BHI HOTA?', 'kuch nahi', 'the absolute joke of a gs and presi', 'how we have a 50 members to do nothing'],
+      options: ['IDHER FUN BHI HOTA?', 'kuch nahi', 'the absolute joke of a gs and presi', 'how we have 50 members to do nothing'],
       answer: 'IDHER FUN BHI HOTA?',
-    },
-     {
-      question: 'Will this club survive the next semester',
-      options: ['ofc', 'inshallah.', 'nai', 'mushkil'],
-      answer: 'nai',
     },
     {
       question: 'What do I hate about this club',
