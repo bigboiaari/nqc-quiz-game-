@@ -1,23 +1,53 @@
 const quizData = [
     {
-      question: 'Will this club survive the next semester',
-      options: ['ofc', 'inshallah.', 'nai', 'mushkil'],
-      answer: 'nai',
+      question: 'What is the capital city of Australia?',
+      options: ['Sydney', 'Melbourne', 'Canberra', 'Brisbane'],
+      answer: 'Canberra',
     },
     {
-      question: 'Who was the guy that got blocked in the first semester by professor',
-      options: ['the GREAT Luqman', 'Rizwan', 'Issa bhi hota?', 'koi nai'],
-      answer: 'the GREAT Luqman',
-    },
-     {
-      question: 'What is the most fun thing about NQC',
-      options: ['IDHER FUN BHI HOTA?', 'kuch nahi', 'the absolute joke of a gs and presi', 'how we have 50 members to do nothing'],
-      answer: 'IDHER FUN BHI HOTA?',
+      question: 'In Greek mythology, who is the god of the sea?',
+      options: ['Zeus', 'Apollo', 'Poseidon', 'Hades'],
+      answer: 'Poseidon',
     },
     {
-      question: 'What do I hate about this club',
-      options: ['everything', 'the sweetest person there', 'the president', 'myself for joining'],
-      answer: 'myself for joining',
+      question: 'Which planet is known as the "Red Planet"?',
+      options: ['Mars', 'Saturn', 'Jupiter', 'Venus'],
+      answer: 'Mars',
+    },
+    {
+      question: 'Who wrote the play "Romeo and Juliet"?',
+      options: ['Charles Dickens', 'William Shakespeare', 'Jane Austen', 'Mark Twain'],
+      answer: 'William Shakespeare',
+    },
+    {
+      question: 'Which country is known as the Land of the Rising Sun?',
+      options: ['China', 'Japan', 'South Korea', 'Thailand'],
+      answer: 'Japan',
+    },
+    {
+      question: 'What is the chemical symbol for gold?',
+      options: ['Au', 'Ag', 'Fe', 'Cu'],
+      answer: 'Au',
+    },
+    {
+      question: 'What is the largest mammal in the world?',
+      options: ['Elephant', 'Blue Whale', 'Giraffe', 'Polar Bear'],
+      answer: 'Blue Whale',
+    },
+    {
+      question: 'In what year did the Titanic sink?',
+      options: ['1912', '1920', '1905', '1931'],
+      answer: '1912',
+    },
+    {
+      question: 'Who is the author of the Harry Potter book series?',
+      options: ['J.R.R. Tolkien', 'J.K. Rowling', 'C.S. Lewis', 'Roald Dahl'],
+      answer: 'J.K. Rowling',
+    },       
+    {
+      question: 'Which famous scientist developed the theory of general relativity?',
+      options: ['Isaac Newton', 'Albert Einstein', 'Stephen Hawking', 'Galileo Galilei'],
+      answer: 'Albert Einstein',
     },
   ];
   
